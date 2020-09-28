@@ -4,21 +4,35 @@
 Clone do twitter responsivo.
 Contem diversos breakpoints (Para tamanho de celular, tablet e monitores)
 
-## Tecnologias usadas
--React
+## Começando
 
--Typescript
+Siga estes passos para conseguir rodar o projeto em sua maquina, o mesmo foi feito com Native CLI.
 
--Styled components
+### Prerequisitos
 
--Styled icons
+Necessario ter instalado Node.js e React.
 
+Utilize o comando abaixo para instalar todos os pacotes necessarios.
 
-## Scripts acessiveis
-Projeto desenvolvido usando o gerenciador de pacotes NPM.
+```
+npm install
+```
+Para iniciar o projeto utilize este comando
 
-### npm run
-Inicia o projeto na porta http://localhost:3000
+```
+npx run start
+```
+
+### Bibliotecas usadas
+
+* Styled components
+* Styled icons
+
+## Feito com
+
+* [React](https://pt-br.reactjs.org/) - Cli version
+* [Typescript](https://www.typescriptlang.org/) 
+
 
 ## Fotos do site
 
