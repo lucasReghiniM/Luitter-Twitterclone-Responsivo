@@ -30,7 +30,7 @@ npx run start
 
 ## Feito com
 
-* [React](https://pt-br.reactjs.org/) - Cli version
+* [React](https://pt-br.reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/) 
 
 
